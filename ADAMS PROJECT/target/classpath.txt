@@ -1,0 +1,1 @@
+C:\Users\adams\.m2\repository\org\jsoup\jsoup\1.14.3\jsoup-1.14.3.jar;C:\Users\adams\.m2\repository\com\google\code\gson\gson\2.8.9\gson-2.8.9.jar
